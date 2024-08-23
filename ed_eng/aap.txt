@@ -1,0 +1,57 @@
+PALAVRAS-CHAVE
+estrutura de dados no curso de engenharia da computação
+ponteiros (como se fosse um cep, nao eh a casa exata 
+mas representa o local em que esta)
+structs
+armazenamento de bytes
+estruturas em funcoes
+vetores/matrizes de estruturas
+
+SITES
+https://www.inteli.edu.br/prototipos-algoritmos-de-alta-performance/
+https://www.cin.ufpe.br/~garme/public/(ebook)Estruturas%20de%20Dados%20Usando%20C%20(Tenenbaum).pdf
+https://www.udemy.com/course/linguagem-c-estruturas-de-dados/
+https://wiki.ifsc.edu.br/mediawiki/images/d/dc/Estruturas.pdf
+https://www.inf.pucrs.br/~pinho/LaproI/Structs/Structs.htm
+https://homepages.dcc.ufmg.br/~rodolfo/aedsi-2-18/aedsi-2-18.htm
+https://github.com/vigusmao?tab=repositories
+https://professor.pucgoias.edu.br/SiteDocente/admin/arquivosUpload/17504/material/cmp1054-lista_exercicios-05-filas.pdf
+http://www.decom.ufop.br/menotti/edI101/
+http://www.inf.ufes.br/~vitorsouza/archive/2020/wp-content/uploads/academia-br-programacaoc-lista04.pdf
+https://www.ic.unicamp.br/~islene/mc202/mc202.html
+http://wiki.icmc.usp.br/images/1/1f/Lista1-202t.pdf
+https://www.computersciencemaster.com.br/category/exercicios/exercicios-estrutura-dados/
+https://www.ime.usp.br/~pf/algoritmos/aulas/ordena.html
+https://ww2.inf.ufg.br/~hebert/disc/aed1/AED1_04_ordenacao1.pdf
+https://ic.unicamp.br/~mc102/aulas/aula10.pdf
+https://www.freecodecamp.org/portuguese/news/algoritmos-de-ordenacao-explicados-com-exemplos-em-python-java-e-c/
+https://www.devmedia.com.br/algoritmos-de-ordenacao-analise-e-comparacao/28261
+https://www.facom.ufu.br/~anilton/EQQ09_PD_EngQuimica/ordenacao.pdf
+https://bookdown.org/jessicakubrusly/programacao-estatistica/algoritmos-de-ordenacao.html
+
+CONTEÚDO
+como funcionam os ponteiros
+endereco &
+conteudo *
+
+PILHA (o ultimo a entrar é o primeiro a sair)
+1. procedimentos basicos:
+- iniciar a pilha
+	- inicia sempre com um valor e um apontamento pro proximo
+- verificar se a pilha esta vazia
+- retornar o elemento que esta no topo da pilha
+- inserir um elemento no topo da pilha
+- retirar um elemento do topo da pilha
+
+FILA (o primeiro a entrar é o primeiro a sair)
+1. procedimentos básicos:
+- iniciar a fila
+- verificar se a fila esta vazia
+- inserir um elemento na pilha (ao final)
+- retirar um elemento da pilha (do inicio)
+- obter o elemento do inicio da fila (sem remove-lo)
+
+LISTA
+ENCADEADA comecar de novo
+DUPLAMENTE ENCADEADA pode voltar
+CIRCULAR precisa parar pois eh um looping
