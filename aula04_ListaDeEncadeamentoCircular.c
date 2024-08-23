@@ -1,3 +1,5 @@
+// lista circular duplamente encadeada - pesquisar
+
 // programa que implementa uma lista de encadeamento circular
 
 #include<stdio.h>
