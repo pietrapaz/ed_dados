@@ -106,7 +106,8 @@ int main(){
     imprimir(cabeca);
     cabeca = remover(cabeca, 0);
     cabeca = remover(cabeca, 2);
-    cabeca =
-
+    cabeca = remover(cabeca, 4);
+    cabeca = remover(cabeca, 10);
+    imprimir(cabeca);
 
 }
